@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome Website</h1>
+    <h1>Welcome Page</h1>
     <h3>A little bit about myself: </h3>
     <p>Hello! My name is Coffee, I am in 10th grade going onto 11th grade.</p>
     <p>I recently started my coding journey because I want to explore my options and this seemed like a new and interesting concept.
