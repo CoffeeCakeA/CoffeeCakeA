@@ -8,14 +8,19 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Welcome Page</h1>
+    <h2>Welcome</h2>
     <h3>A little bit about myself: </h3>
     <p>Hello! My name is Alekhya, I am in 10th grade going onto 11th grade.</p>
     <p>I recently started my coding journey because I want to explore my options and this seemed like a new and interesting concept.
-        I intend on continuing this journey and learning more about coding and how to use it in the future. I am excited to see where
-        this journey takes me and what I can do with the knowledge I gain. I intend on using this to create a portfolio of my work and
-        to share my projects with others. I am also interested in using coding to create games and apps in the future, so I am excited 
-        to see where this journey takes me.
+I intend on continuing this journey and learning more about coding and how to use it in the future. I am excited to see where this journey takes me and what I can do with the knowledge I gain. I intend on using this to create a portfolio of my work and to share my projects with others. I am also interested in using coding to create games and apps in the future, so I am excited to see where this journey takes me.
     </p>
+<div> 
+    <h2>Skillset</h2>
+    <ul> 
+        <li>Known: HTML, CSS, AI (Claude AI, Chat GPT, Google Gemini)</li>
+        <li>Learning: JavaScript, Algorithms</li>
+        <li>Next Steps: React, TypeScript, Node.JS, LeetCode</li>
+        <li>Fullstack Expectations to Learn: Databases, APIs, Servers, Authentication, Deployment</li>
+</div>
 </body>
 </html>
