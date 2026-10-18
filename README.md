@@ -18,7 +18,7 @@ I intend on continuing this journey and learning more about coding and how to us
     <h2>Skillset</h2>
     <ul> 
         <li>Known: HTML, CSS, AI (Claude AI, Chat GPT, Google Gemini)</li>
-        <li>Learning: JavaScript, Algorithms</li>
+        <li>Learning: Java, Algorithms, Data Sets</li>
         <li>Next Steps: React, TypeScript, Node.JS, LeetCode</li>
         <li>Fullstack Expectations to Learn: Databases, APIs, Servers, Authentication, Deployment</li>
 </div>
